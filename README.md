@@ -1,4 +1,4 @@
-# ComparativeStudyOfEvolutionaryStrategiesForAggregationTasksInRobotSwarms
+# ESsForAggregationInRobotSwarms
 
 Repository referring to the paper:
 
