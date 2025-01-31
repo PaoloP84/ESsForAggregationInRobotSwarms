@@ -4,8 +4,7 @@ Repository referring to the paper:
 
 "A Comparative Study of Evolutionary Strategies for Aggregation Tasks in Robot Swarms: Macro- and Micro-Level Behavioral Analysis"
 
-authored by Paolo Pagliuca and Alessandra Vitanza. The article has been submitted to the journal Scientific Reports and is currently under review.
-A pre-print version of the paper can be found at the following link:
+authored by Paolo Pagliuca and Alessandra Vitanza. The article is currently under review. A pre-print version of the paper can be found at the following link:
 
 https://assets-eu.researchsquare.com/files/rs-4684526/v1_covered_69c0980a-b95b-4b73-aa33-bca2c962bc19.pdf?c=1722452588
 
