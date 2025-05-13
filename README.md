@@ -17,9 +17,11 @@ The repository includes also detailed figures of the final swarm configurations 
 Please use this BibTeX to cite this repository in your publications:
 ```
 @article{pagliuca2025comparative,
-  author = {Pagliuca, Paolo and Vitanza, Alessandra},
-  year = {2025},
-  title = {A Comparative Study of Evolutionary Strategies for Aggregation Tasks in Robot Swarms: Macro- and Micro-Level Behavioral Analysis},
-  journal={IEEE Access}
+  author={Pagliuca, Paolo and Vitanza, Alessandra},
+  year={2025},
+  title={A Comparative Study of Evolutionary Strategies for Aggregation Tasks in Robot Swarms: Macro- and Micro-Level Behavioral Analysis},
+  journal={IEEE Access},
+  volume={13},
+  pages={72721--72735}
 }
 ```
